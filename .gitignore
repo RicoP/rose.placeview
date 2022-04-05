@@ -1,5 +1,7 @@
 .vscode
 place_tiles.csv
+render/*.png
+*.pdb
 
 # Prerequisites
 *.d
